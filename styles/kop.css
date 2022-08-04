@@ -55,18 +55,18 @@ body {
 }
 
 @font-face {
-  font-family: ML;
-  src: url(fonts/ML.ttf); 
+  font-family: 'ML';
+  src: url(../fonts/ML.ttf); 
 }
 
 @font-face {
-  font-family: Ramm;
-  src: url(fonts/Ramm.ttf); 
+  font-family: 'Ramm';
+  src: url(../fonts/Ramm.ttf); 
 }
 
 @font-face {
-  font-family: Paris;
-  src: url(fonts/Paris.ttf); 
+  font-family: 'Paris';
+  src: url(../fonts/Paris.ttf); 
 
 }
 
