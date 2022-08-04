@@ -1,0 +1,78 @@
+﻿
+h1 {
+  color: #FF0000; 
+  font-size: 60pt; 
+  font-family: Georgia, Times, serif; 
+  font-weight: normal; 
+  text-align: center; 
+  background: #DCDCDC; 
+  font-family: Ramm, 'Comic Sans MS', cursive;
+}
+
+h2 {
+  color: #FF0000; 
+  font-size: 30pt; 
+  font-family: Georgia, Times, serif; 
+  font-weight: normal; 
+  text-align: center; 
+  background: #DCDCDC; 
+  font-family: ML, 'Comic Sans MS', cursive;
+}
+
+p {
+  text-align: center; 
+  margin-left: 600px; 
+  margin-right: 600px;
+  border-left: 1px solid #999; 
+  border-bottom: 1px solid #999;
+  padding-left: 10px; 
+  padding-bottom: 10px; 
+  color: #20B2AA;
+  background: #DCDCDC;  
+  font-family: Paris, 'Comic Sans MS', cursive;
+  font-size: 140%; 
+}
+
+img {
+  border: solid red;
+  transform: translate(50px, -1680px);
+  margin-bottom: 0;
+}
+
+body {
+  background: #c7b39b url(images/logopol.png); 
+  color: #fff; 
+}
+
+.leftimg {
+  float:left; 
+  margin: 7px 7px 7px 0; 
+}
+
+.rightimg  {
+  float: right; 
+  margin: 7px 0 7px 7px; 
+}
+
+@font-face {
+  font-family: ML;
+  src: url(fonts/ML.ttf); 
+}
+
+@font-face {
+  font-family: Ramm;
+  src: url(fonts/Ramm.ttf); 
+}
+
+@font-face {
+  font-family: Paris;
+  src: url(fonts/Paris.ttf); 
+
+}
+
+.info{
+  text-align: left;
+  margin-left: 500px;
+  margin-right: 450px;
+  font-size: 150%;
+}
